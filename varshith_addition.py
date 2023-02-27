@@ -6,3 +6,5 @@ while True:
     opt =int(input("enter the operation (number) you want to do \n"))
     if opt ==1:
         print(num1+num2)
+    elif opt==3:
+        print(num1*num2)
