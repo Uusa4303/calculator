@@ -14,4 +14,5 @@ while True:
         print(num1//num2)
         
     
-       
+    elif opt==5:
+        print('chusuko bro number ledhu ')
