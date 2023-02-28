@@ -11,7 +11,7 @@ while True:
     elif opt==3:
         print(num1*num2)
     elif opt==4:
-        print(num1//num2)
+        print(num1num2)
         
     
     elif opt==5:
