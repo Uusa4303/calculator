@@ -14,7 +14,7 @@ while True:
         print(num1//num2)
         
     
-    elif opt==5 or opt==6 or opt==7 or opt==7 or opt==8 or opt==9 or opt==0:
-        print("please check the entered number")
+    else:
+        print("please check the input")
 
     break
