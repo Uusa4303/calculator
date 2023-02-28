@@ -11,8 +11,10 @@ while True:
     elif opt==3:
         print(num1*num2)
     elif opt==4:
-        print(num1num2)
+        print(num1//num2)
         
     
-    elif opt==5:
-        print('chusuko bro number ledhu ')
+    elif opt==5 or opt==6 or opt==7 or opt==7 or opt==8 or opt==9 or opt==0:
+        print("please check the entered number")
+
+    break
